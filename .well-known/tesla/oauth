@@ -1,0 +1,5 @@
+{
+  "client_id": "548b6549-d604-4aaa-b049-4ee597785189",
+  "redirect_uri": "https://my.home-assistant.io/redirect/oauth",
+  "scopes": ["openid", "email", "offline_access", "vehicle_device_data"]
+}
